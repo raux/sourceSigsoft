@@ -1,4 +1,4 @@
-baseURL = "https://raux.github.io/sigsoftDemo/"
+baseURL = "https://raux.github.io/sigsoftBeta/"
 theme = "mainroad"
 languageCode = "en-us"
 title = "ACM Special Group on Software Engineering"
