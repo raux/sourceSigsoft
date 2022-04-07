@@ -24,7 +24,7 @@ Please observe that only completed dissertations will be accepted and that decis
 
 Finally, note that SIGSOFT is making this information available without warranty and assumes no responsibility for its accuracy. All information was provided on a voluntary basis. Any issues of copyright are the sole responsibility of the person submitting the information to SIGSOFT.
 
-Those interested in PhD dissertations in the area of software engineering may also be want to review Tao Xie's Software Engineering Academic Genealogy.
+Those interested in PhD dissertations in the area of software engineering may also be want to review [Tao Xie's Software Engineering Academic Genealogy](http://www.cs.illinois.edu/homes/taoxie/sefamily.htm).
 
 #### 2020
 
